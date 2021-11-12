@@ -1,4 +1,4 @@
-module go_shopify
+module github.com/noraincode/go_shopify
 
 go 1.17
 
